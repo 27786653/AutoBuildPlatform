@@ -448,7 +448,7 @@
 		</dependency> 
   </dependencies>
   <build>
-    <finalName>bhz-parent</finalName>
+   <finalName>yuhi-parent</finalName>
    <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -503,4 +503,7 @@
     </plugins>    
   </build>
   
+  <modules>
+  	<module>yuhi-com</module>
+  </modules>
 </project>
