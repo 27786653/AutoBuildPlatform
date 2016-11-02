@@ -18,7 +18,7 @@
   <repositories>
 		<repository>
 			<id>nexus</id>
-			<url>http://183.57.43.3:12990/repository/maven-public/</url>
+			<url>http://183.57.43.3:12990/repository/maven-central/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -30,7 +30,7 @@
   <pluginRepositories>
 		<pluginRepository>
 			<id>nexus</id>
-			<url>http://183.57.43.3:12990/repository/maven-public/</url>
+			<url>http://183.57.43.3:12990/repository/maven-central/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
